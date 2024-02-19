@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hai Semua👋
+Perkenalkan nama saya **Ezra Abednego**, biasanya dipanggil ezra <br>
+Saya akan menjadi AI Engineer ketika saya lulus nanti!
 
 <!--
 **Ezpzx/Ezpzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
